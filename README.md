@@ -4,7 +4,7 @@ This repository contains materials for the **Python neuro-bootcamp**, a one-week
 
 While the bootcamp is not run regularly, these materials provide useful preparation for [NEUS 642: Python Programming in Experimental Neuroscience](https://github.com/bburan/NEUS642/blob/master/index.md). We recommend that anyone taking NEUS 642 is comfortable working through these notebooks before taking the course.
 
-The materials were originally hosted on a [JupterHub server](https://jupyterhub.readthedocs.io/en/latest/). You can also find more information about how we set it up [here](https://github.com/lbhb/python_neurobootcamp/tree/master/server_setup). However, for independent work, we recommend simply installing Jupter notebook on your local computer via Anaconda
+The materials were originally hosted on a [JupterHub server](https://jupyterhub.readthedocs.io/en/latest/). You can find more information about how we set it up [here](server_setup/). However, for independent work, we recommend simply [installing Jupter notebook on your local computer via Anaconda](day-5/Day5_Anaconda_Installation.ipynb).
 
 ## Goals of the bootcamp 
 The overall objectives of the course are: 
