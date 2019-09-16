@@ -1,10 +1,10 @@
 # Python Neurobootcamp
 
-This repository contains materials for the **Python neuro-bootcamp**, a one-week long class geared towards graduate students and postdoctoral fellows in the [Neuroscience Graduate Program at Oregon Health & Science University (OHSU)](http://www.ohsu.edu/xd/education/schools/school-of-medicine/academic-programs/neuroscience-graduate-program/) who have little to no experience in programming. 
+This repository contains materials for the **Python neuro-bootcamp**, a one-week long class geared towards graduate students and postdoctoral fellows in the [Neuroscience Graduate Program at Oregon Health & Science University (OHSU)](http://www.ohsu.edu/xd/education/schools/school-of-medicine/academic-programs/neuroscience-graduate-program/) who have little to no experience in programming. The bootcamp was offered in Winter 2018. It consists of a series of 5 Jupyter notebooks, which work through basic principles of data analysis in Python.
 
-The first iteration of this course, NEUS640, will be held on the second week of January 2018, every day from 9-11:30am. For more information, please read the course's [syllabus](https://github.com/dasaderi/python_neurobootcamp/blob/master/NEUS640_syllabus_2018.pdf).
+While the bootcamp is not run regularly, these materials provide useful preparation for [NEUS 642: Python Programming in Experimental Neuroscience](https://github.com/bburan/NEUS642/blob/master/index.md). We recommend that anyone taking NEUS 642 is comfortable working through these notebooks before taking the course.
 
-We run this course on the JupyterHub following their [installation guidelines](https://jupyterhub.readthedocs.io/en/latest/). You can also find more information about how we set it up [here](https://github.com/dasaderi/python_neurobootcamp/tree/master/server_setup).
+The materials were originally hosted on a [JupterHub server](https://jupyterhub.readthedocs.io/en/latest/). You can also find more information about how we set it up [here](https://github.com/lbhb/python_neurobootcamp/tree/master/server_setup). However, for independent work, we recommend simply installing Jupter notebook on your local computer via Anaconda
 
 ## Goals of the bootcamp 
 The overall objectives of the course are: 
